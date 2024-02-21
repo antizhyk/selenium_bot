@@ -1,5 +1,4 @@
 certifi==2024.2.2
-certifi==2020.6.20
 colorlog==6.8.2
 pymongo==4.6.1
 pyperclip==1.8.2
